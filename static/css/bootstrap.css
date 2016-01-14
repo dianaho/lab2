@@ -320,13 +320,13 @@ textarea {
 }
 
 a {
-  color: #428bca;
+  color: #ff80df;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #2a6496;
+  color: #80005f;
   text-decoration: underline;
 }
 
@@ -397,7 +397,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Times New Roman", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
